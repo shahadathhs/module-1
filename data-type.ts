@@ -14,7 +14,8 @@ let x: null = null;
 let y: undefined = undefined;
 
 // Symbol
-let z: symbol = bd
+let z: symbol = Symbol("description");
+
 
 // any
 let d;
