@@ -30,6 +30,4 @@
         })
     }
     greetFriends('Sajib', 'Sharif')
-
-    // Destructuring
 }
